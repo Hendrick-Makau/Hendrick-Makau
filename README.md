@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hendrick-makau" alt="henddrick-makau" /></a> </p>
 
-- 🌱 I’m currently learning **Python & PowerBI**
+- 🌱 I’m currently learning **Python & SQL**
 
 - 📫 My Email Address **hendrickmakau@gmail.com**
 
